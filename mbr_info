@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 mbr_info.py $1
